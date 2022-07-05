@@ -13,5 +13,6 @@ First, we create a relationship between Listings.csv and Reviews.csv with a call
 ![image](https://user-images.githubusercontent.com/82467138/177352268-a4a3cdcd-ba01-4fb0-a84f-956818a0a7d0.png)
 Here is the preview of listing growth from the foundation of Airbnb in 2008 until 2021. The overall number of listings are decreasing when it reached its peak growth in 2015. Pandemic also takes part in an extremely decreasing number of new listings because people tend to stay at home during this crisis. These numbers are projected to continue to drop until 2023. Paris is leading in total capacities and total listings among 10 big cities which indicates them as one of the centers of tourism in Europe. The majority of owners are renting the entire place of their property when they listed their property on Airbnb.
 
+
 #### Level of Competition
 ![image](https://user-images.githubusercontent.com/82467138/177358067-ac427909-7ae9-4c9e-a6f8-2208a23ca3b1.png)
