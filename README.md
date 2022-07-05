@@ -8,3 +8,4 @@ We wanted to produce valuable information for potential investor who wants to li
 ## Data Pre-processing
 First, we create a relationship between Listings.csv and Reviews.csv with a called "listing_id" which is stated in both files so we can use each table in our analysis. We didn't use either join or union because we wanted to explore these data without eliminating any column and view the table separately. Column "price" was listed in local currency as respective cities. We decided to convert all of the values in this column to US dollars (USD) so we had a better understanding of the information.
 
+## Results
