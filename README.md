@@ -1,7 +1,7 @@
 # Airbnb-Listing-Review-Analysis
 ![image](https://user-images.githubusercontent.com/82467138/177321466-527d0e08-53dd-4555-b0c4-b9df4ed809cd.png)
-* 📁 (https://www.mavenanalytics.io/data-playground?search=airbnb)
-* 🖥️ (https://public.tableau.com/app/profile/marcellino.paskah.nichora/viz/BI-AirbnbListingReviewAnalysis/Story1)
+* 📁 dataset: (https://www.mavenanalytics.io/data-playground?search=airbnb)
+* 🖥️ Tableau Dashboard: (https://public.tableau.com/app/profile/marcellino.paskah.nichora/viz/BI-AirbnbListingReviewAnalysis/Story1)
 
 ## Introduction
 This is a group project of 4 people including me as the final project to pass the Business intelligence course. We chose a public dataset that contains listings and reviews from Airbnb which was retrieved from maven analytics (...). We are assigned to find business insights from a public dataset using Tableau as a data analytics tool. Airbnb Listing & Review dataset contains data for 250,000+ listings in 10 major cities, including information about hosts, pricing, location, and room type, along with over 5 million historical reviews. 
